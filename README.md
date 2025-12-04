@@ -1,6 +1,6 @@
 # 🚀 Data Science & Machine Learning Portfolio
 
-Hi! I'm **[Adın Soyadın]**, a Computer Engineering student passionate about data. This repository documents my journey in Data Science, featuring 13+ projects ranging from **Data Cleaning** to **Advanced Machine Learning Models**.
+Hi! I'm **Esra Demirtaş**, a Computer Engineering student passionate about data. This repository documents my journey in Data Science, featuring 13+ projects ranging from **Data Cleaning** to **Advanced Machine Learning Models**.
 
 ---
 
@@ -29,4 +29,4 @@ Hi! I'm **[Adın Soyadın]**, a Computer Engineering student passionate about da
 * **Cyber Attack Detection:** Multi-class classification for network security.
 
 ---
-📫 **Contact:** [LinkedIn Linkin] | [Email Adresin]
+📫 **Contact:** esradmrts0461@gmail.com
